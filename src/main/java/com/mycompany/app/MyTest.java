@@ -12,6 +12,7 @@ public class MyTest {
         System.out.println("Value"+MyTest.class);
         logger.debug("This is debug : " );
 
+
     }
 
 }
